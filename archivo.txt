@@ -6,5 +6,4 @@ local
 otro localfasfa
 seven
 eight
-siete 
-ocho
+git  
