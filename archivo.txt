@@ -3,12 +3,6 @@ ff
 diferente
 algo
 local
-<<<<<<< HEAD
 otro localfasfa
 seven
 eight
-=======
-otro localfasfa 
-siete 
-ocho
->>>>>>> suRama
